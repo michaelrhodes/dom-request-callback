@@ -1,7 +1,7 @@
 {
   "name": "dom-request-callback",
   "version": "1.0.0",
-  "description": "Use DOMRequest objects with plain old callbacks.",
+  "description": "Handle DOMRequest objects with plain old callbacks.",
   "author": "Michael Rhodes",
   "main": "index.js",
   "devDependencies": {
